@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/sunshineluyao/icp-nns/blob/main/figures/icp-nns-db.drawio.png" alt="ICP NNS Database Workflow" width="100%" />
+      <img src="/figures/icp-nns-db.drawio.png" alt="ICP NNS Database Workflow" width="100%" />
     </td>
     <td width="50%">
       This GitHub feature serves as a central hub, collating a series of repositories and software demonstrations dedicated to the creation and utilization of a database connecting Web3 to Web2. It encompasses a robust Internet Computer Protocol NNS Governance System Database for data management and various interactive Dash applications, each uniquely focusing on different aspects of governance data visualization. These repositories collectively offer tools for local environment setup, data fetching from the blockchain, database management with multiple systems, and insightful data explorations through Kaggle, emphasizing practical applications in diverse setups like SQLite, MySQL, and PostgreSQL.
