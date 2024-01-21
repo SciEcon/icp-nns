@@ -1,3 +1,4 @@
+## Connecting Web3 to Web2 Database and Interactive Dashboards leveraging ICP NNS Governance System. 
 **Project Highlights**: 
 Metaversity is a cutting-edge project that lies at the crossroads of academia and Web 3.0. Designed for the academic community and those interested in Web 3.0 education, it introduces a Data Science Pipeline that connects Web3 with traditional Web2 databases. This initiative is about making advanced data management tools and visualizations available to a wide audience, while promoting Web3 literacy and diversity.
 
