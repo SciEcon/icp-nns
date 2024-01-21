@@ -1,5 +1,6 @@
 # Feature GitHub: Comprehensive Overview of Connecting Web3 to Web2 Database and Interactive Dashboards leveraging the Internet Computer Protocol (ICP) NNS Governance System. 
-
+*Advancing Web3 literacy and diversity with a streamlined data pipeline, integrating robust databases, interactive visualizations, and accessible open-source tools*
+*Empowering Web3 Literacy and Inclusivity Through Streamlined Data Pipelines and Interactive Visualizations*
 ## Overview
 <table>
   <tr>
