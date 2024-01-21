@@ -3,6 +3,11 @@
 ## Overview
 This GitHub feature serves as a central hub, collating a series of repositories and software demonstrations dedicated to the creation and utilization of a database connecting Web3 to Web2. It encompasses a robust Internet Computer Protocol NNS Governance System Database for data management and various interactive Dash applications, each uniquely focusing on different aspects of governance data visualization. These repositories collectively offer tools for local environment setup, data fetching from the blockchain, database management with multiple systems, and insightful data explorations through Kaggle, emphasizing practical applications in diverse setups like SQLite, MySQL, and PostgreSQL.
 
+## Diversity and Inclusion Statement
+
+Our GitHub is dedicated to enhancing diversity and inclusion in the Web3 space. We offer open-source data and code, specifically crafted to improve literacy for all audiences. Our aim is to demystify Web3 technologies, making them accessible and beneficial, especially for those still navigating the Web2 landscape. Through our efforts, we are committed to fostering an inclusive digital transition, ensuring that the evolving world of Web3 is open and enriching for everyone.
+
+
 ---
 
 ### GitHub A: Database From Web3 to Web2
